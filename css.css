@@ -1,0 +1,87 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(multimedia/images\ \(1\).jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.todo{
+    width: 100%;
+    max-height: 100vh;
+}
+.arriba{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid rgba(162, 115, 238, 0.733) 2px;
+    width: 500px;
+    height: 69px;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 20px;
+    background-color: rgba(225, 183, 253, 0.425);
+}
+.c{
+    display: flex;
+    border-radius: 50%;
+    border: solid rgb(149, 149, 255) 3px;
+}
+.debajo{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.abajo{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cuadros{
+    height: 54rem;
+    width: 800px;
+}
+.yo{
+    display: flex;
+    justify-content: center;
+    border: solid rgba(122, 202, 223, 0.651) 2px;
+    height: 40px;
+    width: 120px;
+    margin-left: 340px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 20px;
+    background-color: rgba(156, 130, 250, 0.445);
+}
+.letra1{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    font-size: 26px;
+    font-family: Brush Script MT;
+}
+.misgustos{
+    display: flex;
+    justify-content: center;
+    border: solid rgba(122, 202, 223, 0.651) 2px;
+    height: 40px;
+    width: 240px;
+    margin-left: 280px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 20px;
+    background-color: rgba(156, 130, 250, 0.445);
+}
+.letra2{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 30px;
+}
+.b{
+    border-radius: 30px;
+    border: solid black 1px;
+}
+/*hecho por yo c:/*
